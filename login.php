@@ -1,7 +1,7 @@
 <?php 
  
 // Thiết lập thông tin kết nối đến database 
-$servername = "3.1.222.86"; 
+$servername = "13.250.125.131"; 
 $username = "admin"; 
 $password = "123456789"; 
 $dbname = "myDB"; 
